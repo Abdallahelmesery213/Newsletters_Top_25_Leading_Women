@@ -16,7 +16,7 @@
 }
 @font-face{
     font-family: cinzelFont;
-    src: url(./../fonts/CinzelDecorative-Black.ttf);
+    src: url(./../fonts/CinzelDecorative-Bold.ttf);
 }
 @font-face{
     font-family: arabicFont;
@@ -36,7 +36,8 @@ header h2 {
     font-family: merriBoldFont;
 }
 header .header-en h2{
-    font-size: 35px;
+    font-size: 45px;
+    line-height: 45px;
     font-family: cinzelFont;
 }
 header .header-en h2 sup{
@@ -263,8 +264,8 @@ footer a.btn-danger{
         font-weight: normal;
     }
     header .header-en h2{
-        font-size: 20px !important;
-        line-height: 30px;
+        font-size: 35px;
+        line-height: 35px;
     }
     header .header-en h2 sup {
         font-size: 20px;
